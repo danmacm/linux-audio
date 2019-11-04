@@ -17,5 +17,6 @@ List of issues thus far:
 
 List of things to do:
 * create PKGBUILD files, learn ARCH packaging/repo
+  * https://fusion809.github.io/how-to-create-archlinux-repository/
 * create repo with any AUR packages that are useful
   * https://wiki.archlinux.org/index.php/creating_packages
